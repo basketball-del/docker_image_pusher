@@ -8,3 +8,4 @@ nginx
 portainer/portainer:latest
 hello-world
 mysql:5
+ubuntu:22.04
