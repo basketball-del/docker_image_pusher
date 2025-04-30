@@ -10,4 +10,4 @@ hello-world
 mysql:5
 ubuntu:22.04
 python:3.9
-mariadb:latest --platform linux/arm/v7
+arm32v7/ubuntu:20.04
