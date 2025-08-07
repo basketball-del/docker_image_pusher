@@ -1,5 +1,5 @@
 #nginx
-#openjdk:21
+openjdk:21
 
 #hello-world
 #mysql:5
